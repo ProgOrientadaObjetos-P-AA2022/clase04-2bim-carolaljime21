@@ -55,7 +55,7 @@ public abstract class PasajeUrbano{
                     + "Valor Pasaje: %.2f\n"
                     + "---------------------\n",
                     obtenerPersona().obtenerNombre(),
-                    obtenerPersona().obtenerCedula(),
+                    obtenerPersona().obtenerApellido(),
                     obtenerValorPasaje());
     }
     
